@@ -18,10 +18,11 @@ O objetivo do sistema é ajudar empresas e equipes a organizarem melhor o fluxo 
 ### Entrada
 
 O usuário envia uma mensagem corporativa em texto simples, como e-mails, mensagens internas ou solicitações de suporte.
-Ex: "Caiu o servidor e não temos nenhum dev dísponivel agora, precisamos acessar os dados o quanto antes"
-"O relatório ta atualizado?"
-"Tem café passado no segundo andar para quem quiser"
-"Consegue me enviar os arquivos, por favor"
+- Ex: 
+- "Caiu o servidor e não temos nenhum dev dísponivel agora, precisamos acessar os dados o quanto antes"
+- "O relatório ta atualizado?"
+- "Tem café passado no segundo andar para quem quiser"
+- "Consegue me enviar os arquivos, por favor"
 
 ---
 
@@ -44,8 +45,9 @@ O sistema retorna:
 
 - Categoria da mensagem  
 - Justificativa da classificação
-  Ex: "Caiu o servidor e não temos nenhum dev dísponivel agora, precisamos acessar os dados o quanto antes"
-  Saída: Urgente. Jusitificativa: Relata um problema crítico que está impactando as operações da empresa e exige ação imediata.
+- Ex: "Caiu o servidor e não temos nenhum dev dísponivel agora, precisamos acessar os dados o quanto antes"
+- Saída: Urgente.
+- Justificativa: Relata um problema crítico que está impactando as operações da empresa e exige ação imediata.
 
 # Instalação do Projeto
 
